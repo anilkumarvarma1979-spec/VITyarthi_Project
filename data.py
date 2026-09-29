@@ -1,8 +1,3 @@
-
-# data.py
-
-# Initial statistics of the student
-
 INITIAL_STUDENT = {
     "money": 1000,
     "energy": 80,
