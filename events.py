@@ -1,9 +1,5 @@
-
-# events.py
-
 import random
 from student import limit_stats
-
 
 def random_event(student):
     print("\n========== RANDOM EVENT ==========")
