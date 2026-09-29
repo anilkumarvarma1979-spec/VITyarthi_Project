@@ -1,9 +1,4 @@
-
-# report.py
-
 import os
-
-
 def identify_problem(student):
     problems = []
 
