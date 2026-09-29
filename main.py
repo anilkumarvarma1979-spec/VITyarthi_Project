@@ -1,15 +1,10 @@
-
-# main.py
-
 from data import INITIAL_STUDENT, ACTIVITIES, TOTAL_DAYS, DAILY_TIME
 from student import show_status, check_warnings, limit_stats
 from activites import perform_activity
 from events import random_event
 from report import final_report
 
-
 def main():
-    # Create a separate copy of the initial student data.
     student = INITIAL_STUDENT.copy()
 
     total_energy = 0
